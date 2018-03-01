@@ -1,0 +1,3 @@
+[submodule "Fast-tokenizers"]
+	path = Fast-tokenizers
+	url = git@github.com:github2015david/Fast-tokenizers.git
